@@ -3,25 +3,27 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp.OutputDemo", "ConsoleApp.OutputDemo\ConsoleApp.OutputDemo.csproj", "{F1DB49E4-EC3D-4759-BC71-D4E478756245}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp.OutputDemo", "ConsoleApp.OutputDemo\ConsoleApp.OutputDemo.csproj", "{F1DB49E4-EC3D-4759-BC71-D4E478756245}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp.VariablesDemo", "ConsoleApp.VariablesDemo\ConsoleApp.VariablesDemo.csproj", "{1A925301-C559-4B4A-95B6-1C8C8EFB9B70}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp.VariablesDemo", "ConsoleApp.VariablesDemo\ConsoleApp.VariablesDemo.csproj", "{1A925301-C559-4B4A-95B6-1C8C8EFB9B70}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp.UserInputDemo", "ConsoleApp.UserInputDemo\ConsoleApp.UserInputDemo.csproj", "{FE73FA30-2072-43C9-B12B-F0606F4F3F6E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp.UserInputDemo", "ConsoleApp.UserInputDemo\ConsoleApp.UserInputDemo.csproj", "{FE73FA30-2072-43C9-B12B-F0606F4F3F6E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp.Operators", "ConsoleApp.Operators\ConsoleApp.Operators.csproj", "{00056DF2-4A58-43E1-BFCE-4B4BF992C083}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp.Operators", "ConsoleApp.Operators\ConsoleApp.Operators.csproj", "{00056DF2-4A58-43E1-BFCE-4B4BF992C083}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp.ConditionsAndDecisions", "ConsoleApp.ConditionsAndDecisions\ConsoleApp.ConditionsAndDecisions.csproj", "{7ED21633-5616-4A90-99BD-0DBE5DC8C5BB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp.ConditionsAndDecisions", "ConsoleApp.ConditionsAndDecisions\ConsoleApp.ConditionsAndDecisions.csproj", "{7ED21633-5616-4A90-99BD-0DBE5DC8C5BB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp.SimpleCalculator", "ConsoleApp.SimpleCalculator\ConsoleApp.SimpleCalculator.csproj", "{635FFB49-F703-4749-9C66-5869F78FBD80}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp.SimpleCalculator", "ConsoleApp.SimpleCalculator\ConsoleApp.SimpleCalculator.csproj", "{635FFB49-F703-4749-9C66-5869F78FBD80}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp.Loops", "ConsoleApp.Loops\ConsoleApp.Loops.csproj", "{6E0BCF94-4523-4124-9F45-0AEDB18CA228}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp.Loops", "ConsoleApp.Loops\ConsoleApp.Loops.csproj", "{6E0BCF94-4523-4124-9F45-0AEDB18CA228}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp.ExceptionHandlingDemo", "ConsoleApp.ExceptionHandlingDemo\ConsoleApp.ExceptionHandlingDemo.csproj", "{B3B2A77A-7449-47D2-8B08-77E0D4902C68}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp.ExceptionHandlingDemo", "ConsoleApp.ExceptionHandlingDemo\ConsoleApp.ExceptionHandlingDemo.csproj", "{B3B2A77A-7449-47D2-8B08-77E0D4902C68}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp.StringManipulation", "ConsoleApp.StringManipulation\ConsoleApp.StringManipulation.csproj", "{EF9FD9C2-1B87-42F7-9DCC-9A14609CA412}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp.StringManipulation", "ConsoleApp.StringManipulation\ConsoleApp.StringManipulation.csproj", "{EF9FD9C2-1B87-42F7-9DCC-9A14609CA412}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp.DateTimeManipulation", "ConsoleApp.DateTimeManipulation\ConsoleApp.DateTimeManipulation.csproj", "{C9E81F75-069F-462D-9D92-6C237001F01D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp.DateTimeManipulation", "ConsoleApp.DateTimeManipulation\ConsoleApp.DateTimeManipulation.csproj", "{C9E81F75-069F-462D-9D92-6C237001F01D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp.Methods", "ConsoleApp.Methods\ConsoleApp.Methods.csproj", "{B9906AA5-0D5B-444C-9C3A-18A4C291C3B5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{C9E81F75-069F-462D-9D92-6C237001F01D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C9E81F75-069F-462D-9D92-6C237001F01D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C9E81F75-069F-462D-9D92-6C237001F01D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9906AA5-0D5B-444C-9C3A-18A4C291C3B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9906AA5-0D5B-444C-9C3A-18A4C291C3B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9906AA5-0D5B-444C-9C3A-18A4C291C3B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9906AA5-0D5B-444C-9C3A-18A4C291C3B5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
